@@ -1,5 +1,5 @@
-# ejdzApp
+# aevoApp
 
-Public pages for the Faunage iPhone app, published with GitHub Pages.
+Public pages for the Aevo iPhone app (formerly Faunage), published with GitHub Pages.
 
-- Privacy policy: https://stanislavk.github.io/ejdzApp/privacy/ (`privacy/index.html`)
+- Privacy policy: https://stanislavk.github.io/aevoApp/privacy/ (`privacy/index.html`)
